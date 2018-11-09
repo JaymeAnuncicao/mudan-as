@@ -1,0 +1,16 @@
+.jumbotron{
+    background-image: url('/php/Img/img-noticias.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50vh;
+}
+
+.campoNoticias{
+    flex: 1;
+    background-color: #fafafa;
+    width: 80vw;
+    margin-top: 5%;
+    box-shadow: 5px;
+    margin-left: 17%;
+}

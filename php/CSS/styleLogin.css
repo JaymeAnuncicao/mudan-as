@@ -1,0 +1,13 @@
+.divLogin{
+    margin-top: 8vh;
+}
+
+.cardsUsuario{
+    margin-top: 15vh;
+    transform: scale(1);
+    transition: background-color 0.3s, transform 0.3s;
+}
+.cardsUsuario:hover{
+    transform: scale(1.02);
+    transition: background-color 0.3s, transform 0.3s;
+}

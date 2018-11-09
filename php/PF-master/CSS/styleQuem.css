@@ -1,0 +1,10 @@
+.quemSomos{
+    background-image: url('/php/Img/img-sobre.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+}
+.divSobre{
+    margin-top: 1%;
+}

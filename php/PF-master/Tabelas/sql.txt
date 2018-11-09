@@ -1,0 +1,7 @@
+CREATE TABLE andamento(
+    id INT NOT NULL AUTO_INCREMENT,
+    peca varchar(50) NOT NULL,
+    dia varchar(50) NOT NULL,
+    comentario varchar(150) NOT NULL,
+    PRIMARY KEY (id)
+);

@@ -1,0 +1,57 @@
+body{
+    background-color: #eee;
+    padding-bottom: 0;
+}
+
+nav{
+    background-color: rgba(0, 37, 154, 0.8);
+}
+header{
+    margin-top: 0vh;
+}
+
+#footerGeral {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* .home{
+    background-image: url('/php/Img/img-home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+.icones{
+    height: 5vh;
+}
+
+.linksNav{
+    font-size: 1.5rem !important;
+    font-weight: 400;
+}
+
+.tabelaAdm{
+    margin-top: 10%;
+}
+.dadosTabela{
+    font-size: 1.3rem;
+}
+.dist{
+    margin-top: 5vh;
+}
+.dis{
+    margin-top: 10vh;
+    margin-bottom:5vh;
+}
+.tan{
+    margin-left: 2vh;
+}
+.servicos{
+    background-color: #eee;
+}
+.produtos{
+    background-color: #ffffff;
+    margin-top:10vh;
+}
